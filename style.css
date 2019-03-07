@@ -1,0 +1,190 @@
+header{
+    background: #323232;
+    height: 63px;
+    width: 1020px;
+ font-family: ﻿Lato-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 7.21379pt;
+color: rgba(46, 179, 152, 255);
+text-align: justify;
+}
+header:after{
+    content: "";
+    width: 0;
+    height:0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20 px solid #323232;
+    position: absolute;
+    left: 50%;
+    top:63px;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.triangle {
+    position: absolute; 
+    top:10px;
+    left:152px;
+}
+
+.main{
+    width: 1020px;
+    height: 341px;
+}
+
+
+
+.begin {
+    display: inline;
+    margin: auto;
+    padding: 0;
+    position: absolute;
+    left: 356px;
+    top:36px;
+}
+
+li {
+    display: inline;
+}
+
+.part1{
+    height: 721px;
+    width: 1020px;  
+    background-color: white;
+}
+.one{
+    left: 119px;
+    top: 152px;
+}
+
+.two{
+    left: 19px;
+    top: 320px;
+}
+
+.three{
+    left: 119px;
+    top: 488px;
+}
+
+
+.about{
+    background: #2eb398;
+    top:781px;
+    height: 341px;
+    width: 1020px;
+}
+
+.photo{
+    position: absolute;
+    left: 15px;
+    top:862px;
+}
+
+.text{
+    position: absolute;
+    height: 76px;
+    width:581px;
+    top:802px;
+    left:440px;
+    right:10px;
+    font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 30pt;
+color: rgba(215, 252, 245, 255);
+text-align: justify;
+}
+
+h1{
+font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 30pt;
+color: rgba(215, 252, 245, 255);
+text-align: justify;
+height: 76px;
+width:581px;
+top:852px;
+left:319px;
+}
+
+main,h2{
+font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 18pt;
+color: rgba(32, 129, 109, 255);
+text-align: justify;
+}
+
+main,h4{
+font-family: ﻿Lato-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 12pt;
+color: rgba(215, 252, 245, 255);
+text-align: justify;
+}
+.links{
+    position: absolute;
+    opacity:20%;
+    top:1104px;
+    left:781px;
+}
+footer{
+    background: #323232;
+    height: 200px;
+    width: 1020px;
+}
+
+footer,h2{
+    font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 30pt;
+    color: rgba(224, 224, 224, 255);
+    text-align: justify;
+}
+footer,legend{
+    font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 18pt;
+    color: rgba(190, 190, 190, 255);
+    text-align: justify;
+}
+.form{
+    position: absolute;
+    border-width: 0;
+    left:120px;
+    right:320px;
+    top:1259px;
+width: 580px;
+}
+.button{
+    position: absolute;
+    background: #2eb398;
+    top:1587px;
+    left:610px;
+    width:90px ;
+    height: 37px
+}
+
+footer,h4{
+ font-family: ﻿Lato-Black, ﻿Lato-Regular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 12pt;
+color: rgba(224, 224, 224, 255);
+text-align: justify;
+}
+.connections{
+    background: #323232;
+    position: absolute;
+    top:1432px;
+    left:200px;
+    right: 200px;
+}
+.contacs{
+    background: #323232;
+    position: absolute;
+    top:1259px;
+    left:100px;
+    right:100px;
+}
+.end{
+    background: #222222;
+    height: 40px;
+    width: 1020px;
+    font-family: ﻿MavenProRegular, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 8.65655pt;
+color: rgba(69, 69, 69, 255);
+text-align: justify;
+}
